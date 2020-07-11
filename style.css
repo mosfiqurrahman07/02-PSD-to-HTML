@@ -1,0 +1,29 @@
+#background{
+    background-image: url("img/slider.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section{
+    min-height: 700px;
+}
+.top-padding{
+    padding-top: 200px;
+}
+.btn-highlight{
+    padding: 10px 25px;
+    background-color: #948B3E;
+    color: white;
+}
+.btn-highlight:hover{
+    text-decoration: none;
+    color: white;
+}
+.width{
+    width: 300px;
+}
+#background-color{
+    background-color: #181B33;
+}
+.font-awesome{
+    color: #948B3E;
+}
